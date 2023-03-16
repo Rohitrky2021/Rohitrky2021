@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">A pasusionate fullstack developer from India</h3>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrky2021&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrky2021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitrky2021" alt="rohitrky2021" /></a> </p>
