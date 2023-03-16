@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">A pasusionate fullstack developer from India</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrky2021&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrky2021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitrky2021" alt="rohitrky2021" /></a> </p>
@@ -8,7 +7,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitrky2021)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
