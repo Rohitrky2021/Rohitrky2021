@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<a href="https://imagetolink.com/ib/oU44RuAGOo"><img src="https://imagetolink.com/ib/oU44RuAGOo.png" alt="oU44RuAGOo"/></a>
+<a href="https://imagetolink.com/ib/41bKBqGrXF"><img src="https://imagetolink.com/ib/41bKBqGrXF.png" alt="41bKBqGrXF"/></a>
 </div>
 
 ###
