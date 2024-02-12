@@ -70,6 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitrky2021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Rohitrky2021&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitrky2021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" style="flex-shrink: 1;" />
-  <a href="https://imagetolink.com/ib/sAuuO382Do"><img src="https://imagetolink.com/ib/sAuuO382Do.JPG" alt="sAuuO382Do" style="max-height: 150px; margin-left: 10px;" /></a>
+  <a href="https://imagetolink.com/ib/sAuuO382Do"><img src="https://imagetolink.com/ib/sAuuO382Do.JPG" alt="sAuuO382Do" style="max-height: 100px; margin-left: 10px;" /></a>
 </div>
 
